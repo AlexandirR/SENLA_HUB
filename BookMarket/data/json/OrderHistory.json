@@ -1,0 +1,1 @@
+[{"type":"order","id":0,"countOfMissingBook":0,"price":500,"dateComplete":null,"status":"NEW","dataCustomer":"Customer1","books":[{"type":"book","id":0,"name":"name1","description":"description","status":"INSTOCK","publicationDate":"2022-04-20","price":500,"receiptOfBook":"2022-04-20"}]}]

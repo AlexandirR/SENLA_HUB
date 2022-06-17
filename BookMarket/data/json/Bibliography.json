@@ -1,0 +1,1 @@
+[{"type":"book","id":0,"name":"name1","description":"description","status":"INSTOCK","publicationDate":"2022-04-20","price":500,"receiptOfBook":"2022-04-20"},{"type":"book","id":1,"name":"name2","description":"description2","status":"INSTOCK","publicationDate":"2022-04-20","price":700,"receiptOfBook":"2022-04-20"}]
